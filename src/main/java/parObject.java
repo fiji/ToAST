@@ -1,5 +1,4 @@
-import java.awt.*;
-import ij.*;
+import ij.IJ;
 
 public class parObject{
 	public int n; //size of object in pixels
