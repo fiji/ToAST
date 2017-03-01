@@ -74,8 +74,8 @@
 		<url>https://github.com/fiji/ToAST/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/ToAST/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/ToAST</url>
 	</ciManagement>
 
 	<properties>
