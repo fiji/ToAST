@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>ToAST_</artifactId>
-	<version>25.0.2-SNAPSHOT</version>
+	<version>25.0.3-SNAPSHOT</version>
 
 	<name>ToAST</name>
 	<description>ToAST plugin for Fiji.</description>
