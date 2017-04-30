@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>ToAST_</artifactId>
-	<version>25.0.2-SNAPSHOT</version>
+	<version>25.0.2</version>
 
 	<name>ToAST</name>
 	<description>ToAST plugin for Fiji.</description>
@@ -66,7 +66,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/ToAST</connection>
 		<developerConnection>scm:git:git@github.com:fiji/ToAST</developerConnection>
-		<tag>HEAD</tag>
+		<tag>ToAST_-25.0.2</tag>
 		<url>https://github.com/fiji/ToAST</url>
 	</scm>
 	<issueManagement>
